@@ -1,7 +1,6 @@
 # DyMamba
 This repository is an official implementation of DyMamba.
 
-*Code will be released soon.*
 
 ## Installation
 ```bash
@@ -44,3 +43,7 @@ pip install -r requirements.txt
   │   │    ├── ...
   └── ...
 ```
+
+
+## Acknowledgements
+This project builds upon the following excellent open-source projects: [nnU-Net](https://github.com/MIC-DKFZ/nnUNet), [Mamba](https://github.com/state-spaces/mamba), [VMamba](https://github.com/MzeroMiko/VMamba), [Swin-UMamba](https://github.com/JiarunLiu/Swin-UMamba) and [NeurIPS-CellSeg](https://github.com/JunMa11/NeurIPS-CellSeg).
